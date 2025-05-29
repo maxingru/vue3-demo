@@ -33,3 +33,6 @@ npm run build
 ```sh
 npm run lint
 ```
+# vue3-demo
+a demo of vue3
+
